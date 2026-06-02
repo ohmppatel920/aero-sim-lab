@@ -1,0 +1,16 @@
+# Local Python environment (thousands of third-party files — never commit)
+.venv/
+venv/
+env/
+
+# Test/c tooling caches
+.pytest_cache/
+__pycache__/
+*.py[cod]
+.mypy_cache/
+.ruff_cache/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
