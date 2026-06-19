@@ -1,5 +1,7 @@
 # Aero Sim Lab
 
+**🚀 Live demo: [aero-sim-lab.streamlit.app](https://aero-sim-lab.streamlit.app)** — interact with both simulators in your browser, no install.
+
 Two interactive **engineering simulation** demos for aerospace/mechanical portfolios: launch trajectory dynamics and transient wall heating.
 
 | Project | Run | Docs |
